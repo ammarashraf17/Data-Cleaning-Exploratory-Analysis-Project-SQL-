@@ -1,6 +1,6 @@
 DATA CLEANING PROJECT
 
-# Step 1 - Initial Exploration
+# Step 1 — Initial Exploration
 
 -- View raw data
 SELECT * FROM layoffs;
