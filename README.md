@@ -3,3 +3,5 @@
 
 • Then, I performed Exploratory Data Analysis (EDA) to identify key trends by company, industry, country, and time (monthly/yearly). 
 
+
+• The complete steps can be found in the Data Cleaning & Exploratory Analysis Project (SQL).sql file.
